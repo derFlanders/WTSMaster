@@ -2,6 +2,7 @@
 **by derFlanders**
 
 WTSMaster is a lightweight World of Warcraft: Classic (TBC) Addon designed to simplify selling items in the Trade Channel. It provides a clean UI to manage your items, set prices, and post formatted messages with a single click.
+<p><img src="https://media.forgecdn.net/attachments/description/null/description_6d900cfe-24a2-43c3-ba53-25846b00a16b.png" alt="WTSMaster Single" width="300" height="256"></p>
 
 ## Features
 * **Single & Dual Mode**: Switch between selling one or two items at once.
