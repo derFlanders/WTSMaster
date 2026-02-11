@@ -1,0 +1,10 @@
+## Interface: 20504
+## Title: WTSMaster
+## Notes: |ccFFc8000lightweight and intuitive trading assistant|r
+## Author: derflanders
+## Version: 1.0
+## IconTexture: Interface\AddOns\WTSMaster\img\wtsm.png
+## DefaultState: enabled
+## SavedVariablesPerCharacter: WTSMaster_Config
+
+WTSMaster.lua
